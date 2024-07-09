@@ -1,0 +1,14 @@
+Distributed model training and testing experiment for dataset kits. Random seed 1. Feature partition ratio 4:6. BEGIN...
+2024-07-06  23:36:07
+Use RBF kernel
+Total sketch length: 1024
+Compression factors: 16
+Sketch length for each partition: 409, 615
+Regularization parameter C of LIBLINEAR model: -c 1.0
+Other parameters of LIBLINEAR model: -s 0 -e 0.0001 -q
+The experiment of the hybrid kernels with RBF kernel method
+Accuracy: 71.333%
+Experiment log path: ./dataset/kits/ratio4/RBF/sketch1024/seed1/gamma0
+Distributed model training and testing experiment for dataset kits. Random seed 1. Feature partition ratio 4:6. END.
+
+

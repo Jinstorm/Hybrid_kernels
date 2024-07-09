@@ -1,0 +1,13 @@
+Central model training and testing experiment for dataset kits. Random seed 1. BEGIN...
+2024-07-06  22:07:24
+Use MM kernel
+Total sketch length: 1024
+Compression factors: 16
+Regularization parameter C of LIBLINEAR model: -c 1.0
+Other parameters of LIBLINEAR model: -s 0 -e 0.0001 -q
+The experiment of the hybrid kernels with MM kernel method
+Accuracy: 67.000%
+Experiment log path: ./dataset/kits/ratio0/MM/sketch1024/seed1
+Central model training and testing experiment for dataset kits. Random seed 1. END.
+
+

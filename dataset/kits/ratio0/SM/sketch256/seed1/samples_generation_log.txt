@@ -1,0 +1,7 @@
+Central model sample(sketch) generation for dataset kits. BEGIN...
+2024-07-06  21:30:23
+Use SM kernel; Total sketch length: 256; Random seed: 1
+The shape of generated sample(sketch): train (700, 256); test (300, 256)
+Central model sample(sketch) generation for dataset kits. END.
+
+

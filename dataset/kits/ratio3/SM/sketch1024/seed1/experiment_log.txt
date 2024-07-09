@@ -1,0 +1,14 @@
+Distributed model training and testing experiment for dataset kits. Random seed 1. Feature partition ratio 3:7. BEGIN...
+2024-07-06  21:58:31
+Use SM kernel
+Total sketch length: 1024
+Compression factors: 16
+Sketch length for each partition: 307, 717
+Regularization parameter C of LIBLINEAR model: -c 1.0
+Other parameters of LIBLINEAR model: -s 0 -e 0.0001 -q
+The experiment of the hybrid kernels with SM kernel method
+Accuracy: 68.667%
+Experiment log path: ./dataset/kits/ratio3/SM/sketch1024/seed1
+Distributed model training and testing experiment for dataset kits. Random seed 1. Feature partition ratio 3:7. END.
+
+
