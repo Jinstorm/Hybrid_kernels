@@ -13,6 +13,6 @@ To run **SecureML**, following the command below:
 ```bash
 python3 -u secureML.py -d kits -p 37 -m raw -a pminhash -k 1024 -c 4 -b 2 -o bin -r mm -l off -s linear -al 0.0001 -lm 1 -i 100 -t 8 -e 100 -f
 ```
-And results(such as accuracy and running time) will be stored in corresponded directory.
+And results(such as accuracy and running time) will be stored in corresponding directory.
 
-Among our implementation, we adopt some basic modules from [FATE](https://github.com/FederatedAI/FATE.git), which is the world's first industrial grade federated learning open source framework, and attach the license to related files or functions.
+In our implementation, we adopt some basic modules from [FATE](https://github.com/FederatedAI/FATE.git), which is the world's first industrial grade federated learning open source framework, and attach the license to related files or functions.
